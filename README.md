@@ -1,2 +1,2 @@
-# whats-gguf
+# GGUF-Security
 GGUF Format Model Security
